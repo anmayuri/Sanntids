@@ -11,7 +11,7 @@ import(
 )
 
 const (
-	LOCAL_HOST = ""
+	LOCAL_HOST = "localhost"
 	LOCAL_PORT = ":34933"
 	CONN_TYPE = "tcp"
 	B_PORT = ":30000"
